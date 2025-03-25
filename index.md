@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Image Recognizer
+# Insect Classifier
 Can classify 12 different types of harmful insects to the crops <br/>
 The types are following: <br/>
 1. Bees
