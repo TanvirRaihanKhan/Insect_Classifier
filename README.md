@@ -30,4 +30,4 @@ I deployed model to HuggingFace Spaces Gradio App. The deployment canbe found in
 <img src='Deployment\Hugging_face_demo.PNG' width='800' height='400'>
 
 # API Integration with Github Pages
-The deployed model API is integrated into [here]('tanvirraihankhan.github.io/Jersey_Recognizer/') into Github Pages website. Implementation and other details can be found in 'docs' folder. 
+The deployed model API is integrated into [here]('') into Github Pages website. Implementation and other details can be found in 'docs' folder. 
