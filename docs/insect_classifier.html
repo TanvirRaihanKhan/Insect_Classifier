@@ -10,7 +10,7 @@ layout: page
     import { client } from "https://cdn.jsdelivr.net/npm/@gradio/client@0.1.4/dist/index.min.js";
     
     async function loaded(reader) {  
-        const app = await client("https://tanvirtrk-insect-classifier-2.hf.space/--replicas/xs8mn/");
+        const app = await client("https://tanvirtrk-crop-insects-classifier.hf.space/--replicas/xs8mn/");
         const response = await app.predict("/predict", [reader.result]);
         const label = response['data'][0]['label'];
         results.innerHTML = `<br/> <img src = "${reader.result}" width="500"> <p>${label}</p>`;
