@@ -1,9 +1,0 @@
-remote_theme: daviddarnes/alembic@main
-plugins:
-- jekyll-remote-theme
-
-title: Insect Classifier
-description: An image classificattion API that classifies 12 different types of Insects that cause harms to crops arond the world
-
-author:
- name: Tanvir Raihan Khan
